@@ -34,6 +34,7 @@ module "db" {
 }
 
 ```
+### Please make sure to modify above input based on your own need. you should put your own subnet ID and the region you want to deploy the resources.
 
 ## Create another file output.tf
 ```
